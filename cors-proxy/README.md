@@ -1,3 +1,8 @@
+NOTE(bowei): look in /Users/bowei/Library/Logs/so.cap.desktop
+
+-
+
+
 # CORS Proxy & Tunnel Setup
 
 ## Public URLs
